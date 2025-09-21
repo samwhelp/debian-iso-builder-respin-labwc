@@ -91,7 +91,7 @@ make build
 | ----- | ------ |
 | [debian-iso-builder-remix-gnome-shell](https://github.com/samwhelp/debian-iso-builder-remix-gnome-shell) | [debian-iso-builder-respin-gnome-shell](https://github.com/samwhelp/debian-iso-builder-respin-gnome-shell) |
 | [debian-iso-builder-remix-kde-plasma](https://github.com/samwhelp/debian-iso-builder-remix-kde-plasma) | [debian-iso-builder-respin-kde-plasma](https://github.com/samwhelp/debian-iso-builder-respin-kde-plasma) |
-| [debian-iso-builder-remix-xfce](https://github.com/samwhelp/debian-iso-builder-remix-xfce) | [debian-iso-builder-respin-labwc](https://github.com/samwhelp/debian-iso-builder-respin-xfce) |
+| [debian-iso-builder-remix-xfce](https://github.com/samwhelp/debian-iso-builder-remix-xfce) | [debian-iso-builder-respin-xfce](https://github.com/samwhelp/debian-iso-builder-respin-xfce) |
 | [debian-iso-builder-remix-lxqt](https://github.com/samwhelp/debian-iso-builder-remix-lxqt) | [debian-iso-builder-respin-lxqt](https://github.com/samwhelp/debian-iso-builder-respin-lxqt) |
 | [debian-iso-builder-remix-mate](https://github.com/samwhelp/debian-iso-builder-remix-mate) | [debian-iso-builder-respin-mate](https://github.com/samwhelp/debian-iso-builder-respin-mate) |
 | [debian-iso-builder-remix-cinnamon](https://github.com/samwhelp/debian-iso-builder-remix-cinnamon) | [debian-iso-builder-respin-cinnamon](https://github.com/samwhelp/debian-iso-builder-respin-cinnamon) |
